@@ -22,3 +22,18 @@ As histórias de usuário e critérios de aceitação em Gherkin estão em:
 - `03-salvar-urls.md`
 - `04-redirecionamento.md`
 
+## Recursos — User Stories e Gherkin
+
+Links úteis para aprender a escrever histórias de usuário e referência para Gherkin:
+
+- **Atlassian (pt-br)**: Guia prático sobre como escrever User Stories — https://www.atlassian.com/br/agile/project-management/user-stories
+
+- **Mountain Goat Software (Mike Cohn)**: Conceitos e boas práticas para User Stories — https://www.mountaingoatsoftware.com/agile/user-stories
+
+- **Agile Alliance**: Definição e contexto de User Stories — https://www.agilealliance.org/glossary/user-stories/
+
+- **Gherkin / Cucumber**: Documentação e referência do Gherkin (linguagem de especificação) — https://cucumber.io/docs/gherkin/
+
+- **Referência técnica do Gherkin**: https://cucumber.github.io/gherkin/
+
+
